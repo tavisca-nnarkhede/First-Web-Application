@@ -1,0 +1,15 @@
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\WebApplicationTest.deps.json
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\WebApplicationTest.runtimeconfig.json
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\WebApplicationTest.runtimeconfig.dev.json
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\WebApplicationTest.dll
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\WebApplication1.dll
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\obj\Debug\netcoreapp1.1\WebApplicationTest.csprojResolveAssemblyReference.cache
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\obj\Debug\netcoreapp1.1\WebApplicationTest.csproj.CoreCompileInputs.cache
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\obj\Debug\netcoreapp1.1\WebApplicationTest.AssemblyInfo.cs
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\bin\Debug\netcoreapp1.1\WebApplicationTest.pdb
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\obj\Debug\netcoreapp1.1\WebApplicationTest.dll
+c:\users\nnarkhede\source\repos\WebApplication1\WebApplicationTest\obj\Debug\netcoreapp1.1\WebApplicationTest.pdb
